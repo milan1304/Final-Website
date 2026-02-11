@@ -2,6 +2,7 @@
   "name": "milan-parmar-portfolio",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://milan1304.github.io/Final-Website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
