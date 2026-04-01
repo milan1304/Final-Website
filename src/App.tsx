@@ -256,7 +256,7 @@ const App = () => {
 
             <div className="flex gap-4">
               {/* Placeholders for social links if they were provided */}
-              <div className="p-2 rounded-full bg-slate-800 hover:bg-accent hover:text-white transition-colors cursor-pointer">
+               <a href="mailto:milan@mparmar.ca" className="p-2 rounded-full bg-slate-800 hover:bg-accent hover:text-white transition-colors cursor-pointer">
                 <Mail size={20} />
               </div>
             </div>
