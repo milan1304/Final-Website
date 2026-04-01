@@ -258,7 +258,7 @@ const App = () => {
               {/* Placeholders for social links if they were provided */}
                <a href="mailto:milan@mparmar.ca" className="p-2 rounded-full bg-slate-800 hover:bg-accent hover:text-white transition-colors cursor-pointer">
                 <Mail size={20} />
-              </div>
+                 </a>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-slate-800 text-center text-xs text-slate-500">
